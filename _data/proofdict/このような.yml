@@ -1,0 +1,10 @@
+id: 01FVY084HTWQKFJ2WTAMB04ZKR
+description: ''
+expected: このような
+patterns:
+  - こんな
+allows: []
+specs:
+  - from: こんな
+    to: このような
+tags: []
